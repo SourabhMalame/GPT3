@@ -18,8 +18,8 @@ a {
   /* global 92%+ browsers support */
   background: radial-gradient(
     circle at 3% 25%,
-    rgba(43, 70, 111, 1) 0%,
-    rgba(3, 21, 48, 1) 100%
+    rgb(2, 39, 99) 0%,
+    rgb(1, 6, 14) 100%
   );
 }
 
