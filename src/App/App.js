@@ -1,5 +1,5 @@
 import './App.css';
-import { Blog, Footer, WhatGPT3, Possibility, Feature } from '../Container';
+import { Blog, Footer, Header, WhatGPT3, Possibility, Feature } from '../Container';
 import { CTA, Navbar, Brand } from '../Components';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className='gradient__bg'>
         <Navbar />
-        <Navbar />
+        <Header />
       </div>
       <Brand />
       <WhatGPT3 />
